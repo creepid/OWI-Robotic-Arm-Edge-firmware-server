@@ -1,3 +1,5 @@
+*.hex
+*.map
 #################
 ## Eclipse
 #################
@@ -68,7 +70,6 @@ local.properties
 
 # Visual C++ cache files
 ipch/
-*.aps
 *.ncb
 *.opensdf
 *.sdf
